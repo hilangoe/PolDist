@@ -1,0 +1,9 @@
+---
+title: "readme"
+output: html_document
+date: "2023-07-21"
+---
+
+## README
+
+This is the beginnings of a project on political distance between countries. It's seeking to explain why some countries are more (or less) politically distinct from their neighbors than others.
